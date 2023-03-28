@@ -4,6 +4,6 @@ permalink: /
 title: Txemi Portfolio
 
 ---
-A simple and elegant theme for Jekyll and GitHub Pages.
+Explico la información referente a las habilidades desarrolladas por mi parte en el ámbito profesional.
 
 
